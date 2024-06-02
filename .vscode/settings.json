@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.scss": "postcss",
+        "*.json": "jsonc",
+        "*.py": "python",
+        "__locale": "c",
+        "ios": "c",
+        "format": "c"
+    }
+}
